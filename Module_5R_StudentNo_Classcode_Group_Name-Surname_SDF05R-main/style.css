@@ -62,5 +62,9 @@ p {
     background-color: #5fd9d9;
     border: transparent;
     color: #eeefed;
-    
+
+}
+.btn-3{
+   background-color: bisque; 
+   border: 3px solid gold;
 }
