@@ -85,8 +85,19 @@ p {
  font-family: 'Times New Roman', Times, serif;
 }
 
+/*-------Button-3------*/
 
 .btn-3{
    background-color: bisque; 
    border: 3px solid gold;
+   color: #000;
+   font-weight: 700;
+}
+.btn-3:hover {
+    box-shadow: inset 0px 10px 15px 0px gold;
+    border:none;
+    background-color: transparent;
+    transform: translateY(10px);
+    font-family: fantasy;
+    color: #eaa654;
 }
